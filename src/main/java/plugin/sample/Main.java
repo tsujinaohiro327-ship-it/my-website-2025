@@ -68,6 +68,8 @@ public final class Main extends JavaPlugin implements Listener {
         System.out.println(message.length());
 
         count++;
+
+        System .out.println
     }
 
     @EventHandler
@@ -89,8 +91,6 @@ public final class Main extends JavaPlugin implements Listener {
 }
 
 
-
-pp
 
 
 
