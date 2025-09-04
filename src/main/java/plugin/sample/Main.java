@@ -69,8 +69,8 @@ public final class Main extends JavaPlugin implements Listener {
         String message = null;
         System.out.println(message.length());
 
-        count++;
 
+        count++;
 
         System.out.println("Hello");
     }
