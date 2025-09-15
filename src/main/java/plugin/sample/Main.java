@@ -73,7 +73,10 @@ public final class Main extends JavaPlugin implements Listener {
         count++;
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> test
         System.out.println("Hello");
     }
 
